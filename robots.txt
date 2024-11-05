@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oyiteube.github.io/bBe/sitemap_index.txt
+Sitemap: https://oyiteube.github.io/fxI/sitemap_index.txt
+Sitemap: https://oyiteube.github.io/jBR/sitemap_index.txt
+Sitemap: https://oyiteube.github.io/sOJ/sitemap_index.txt
